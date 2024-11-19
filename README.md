@@ -1,2 +1,2 @@
 # GenerativeAI-Invoice-Extraction-Bot
-This AI experiment is able to read the uploaded invoice and extracts its information. Also the information can be downloaded in CSV format.
+This AI experiment can read the uploaded invoice and extract its information. Also, the extracted information can be downloaded in CSV format.
